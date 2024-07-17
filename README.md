@@ -1,5 +1,8 @@
 # floweroflife
 
+https://claude.site/artifacts/414a20ec-5a6d-429d-91e7-0025e1f294a5
+Cool animation here^
+
 Coding up some different ways to display the "Flower of Life" geometric pattern/lattice
 
 <img width="638" alt="image" src="https://github.com/user-attachments/assets/13a31777-1338-4024-875d-f9ae2cd9d030">
